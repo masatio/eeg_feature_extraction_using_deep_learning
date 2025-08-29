@@ -5,7 +5,7 @@ This project explores whether computer vision models can be enhanced by incorpor
 ---
 
 ## Key Contributions
-- Reproduced and extended experiments from Mishra et al. (2022) on **EEG-based image feature extraction**.  
+- Reproduced experiments from Mishra et al. (2022) on **EEG-based image feature extraction**.  
 - Implemented and compared five approaches:  
   1. **ResNet50** on visual stimuli only  
   2. **LSTM** on raw EEG signals  
